@@ -1,15 +1,8 @@
 # Silicodata: An Annotated Benchmark CXR Dataset for Silicosis Detection.<br/>
 This Repo contains the baseline codes for Silicosis detection on the Silicodata dataset.<br/>
-.<br/>
-.<br/>
-.<br/>
-.<br/>
-.<br/>
-.<br/>
-.<br/>
-.<br/>
+
 # DOI: 
-{https://doi.org/10.7910/DVN/QH199J
+https://doi.org/10.7910/DVN/QH199J
 
 # Bibtex: <br/>
 @article{silicodata_HD,
@@ -24,5 +17,5 @@ url = {https://doi.org/10.7910/DVN/QH199J}
 }
 
 # Endnote: <br/>
-Akhter, Y. et al. Silicodata: An Annotated Benchmark CXR Dataset for Silicosis Detection.Harv. Dataverse V3, 10.7910/DVN/QH199J (2025).
+Akhter, Y. et al. Silicodata: An Annotated Benchmark CXR Dataset for Silicosis Detection.Harv. Dataverse V3, https://doi.org/10.7910/DVN/QH199J. (2025).
 
