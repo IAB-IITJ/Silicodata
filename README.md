@@ -23,8 +23,8 @@ journal = {Harvard Dataverse},
 title = {{Silicodata: An Annotated Benchmark CXR Dataset for Silicosis Detection}},
 year = {2025},
 volume = {V3},
-doi = {https://doi.org/10.7910/DVN/QH199J},
-url = {https://doi.org/10.7910/DVN/QH199J}
+doi = { https://doi.org/10.7910/DVN/QH199J },
+url = { https://doi.org/10.7910/DVN/QH199J }
 }
 
 @article{silicodata_NSD,
